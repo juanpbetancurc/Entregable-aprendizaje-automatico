@@ -4,3 +4,4 @@ regresionLineal.ipynb
 01_PreparaciónDataset01Regresion.ipynb
 2_vehicle_emission_dataset.csv
 app.ipynb
+__pycache__/
