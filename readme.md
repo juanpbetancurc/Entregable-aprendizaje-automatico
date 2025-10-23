@@ -1,6 +1,6 @@
 ## Dataset Aprendizaje Automatico
 
-Análisis de los datos de emisión vehicular de los automóviles desde el año 2000 y 2022 en Canadá.
+Análisis de los datos de emisión vehicular de los automóviles desde el año 2000 al 2022 en Canadá.
 
 Presentacióon Power Point
 
