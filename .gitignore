@@ -1,4 +1,5 @@
 /venv
+/.venv
 regresionLineal.ipynb
 1_MY1995-2023-Fuel-Consumption-Ratings.csv
 01_PreparaciónDataset01Regresion.ipynb
