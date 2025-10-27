@@ -1,7 +1,4 @@
-## Dataset Aprendizaje Automatico
+## Car Emissions Model
 
-Análisis de los datos de emisión vehicular de los automóviles desde el año 2000 al 2022 en Canadá.
-
-Presentacióon Power Point
-
-[Presentación en Power Point](https://docs.google.com/presentation/d/1HxEbPahNL94CQANnwsuktlYO1zX3tXZGYAnQcT-gu3c/edit?usp=sharing)
+Car Emissions Model is a project about predicting car emissions based on their features, such as make, vehicle type, model, and year.
+The model was built using a dataset from Canada, containing cars from 2000 to 2022.
